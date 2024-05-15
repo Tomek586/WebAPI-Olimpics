@@ -1,0 +1,6 @@
+@WebAPI_Olimpics_HostAddress = http://localhost:5106
+
+GET {{WebAPI_Olimpics_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
